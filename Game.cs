@@ -4,7 +4,7 @@ namespace CrowsCauldronDefense
   {
     public void Main()
     {
-      Tower tower = new tower();
+      Tower tower = new Tower();
     }
   }
 }
