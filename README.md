@@ -1,2 +1,2 @@
 # Tower-Defense
-Project 1 of learning for Castle of Red. 
+Project 1 of studying for Castle of Red. 
