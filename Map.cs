@@ -1,0 +1,7 @@
+namespace CrowsCauldronDefense
+{
+  class Map
+  {
+    
+  }
+}
